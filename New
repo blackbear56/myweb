@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adam Thomas</title>
+    <style>
+        body {
+            background-color: #ffeb3b;
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff9800;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .bio {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+        .social {
+            text-align: center;
+        }
+        .social a {
+            color: #e91e63;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .footer {
+            background-color: #ff9800;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Adam Thomas</h1>
+        <h2>Student</h2>
+    </header>
+    <div class="container">
+        <p class="bio">I am a man who is funny.</p>
+        <div class="social">
+            <p>Follow me on Instagram:</p>
+            <p><a href="https://www.instagram.com/adam_thomas389" target="_blank">@yourinstagramhandle</a></p>
+        </div>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 Adam Thomas</p>
+    </div>
+</body>
+</html>
